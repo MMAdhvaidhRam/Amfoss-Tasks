@@ -5,10 +5,10 @@ h
 
 ## **Why should we choose you?**
 
-I get things done and i tend to learn more along the way. I love putting long hours into projects and i make sure that every single doubt of my is cleared. I think i will be valuable because i was THAT guy who did everything in the cs projects in school. Yes, im him
+I get things done and i tend to learn more along the way. I love putting long hours into projects and i make sure that every single doubt of my is cleared. I think i will be valuable because i was THAT guy who did everything in the cs projects in school. Yes, im him.
 
 ## **How do you intend to contribute back to the club?**
-I first intend to learn everything from the workshop to bbuild a good understanding. I intend to participate in all events and discussions.  I will also try to represent amFOSS and Amrita vishwa vidya peetham
+I first intend to learn everything from the workshop to build a good understanding. I intend to participate in all events and discussions.  I will also try to represent amFOSS and Amrita vishwa vidya peetham.
 
 ## **What are your fields of interest, and how do you plan on working on them?**
 
